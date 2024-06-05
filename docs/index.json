@@ -1,0 +1,36 @@
+{
+    "name": "insomnyawolf listing",
+    "author": "insomnyawolf",
+    "authorUrl": "https://github.com/insomnyawolf",
+    "description": "inso's repo",
+    "email": "insomnyawolf@gmail.com",
+    "url": "https://insomnyawolf.github.io/VRChatCreatorCompanionRepo/docs/index.json",
+    "id": "insomnyawolf.listing",
+    "packages": {
+        "io.github.insomnyawolf.vrcfuryextensions": {
+            "versions": {
+                "0.1": {
+                    "name": "io.github.insomnyawolf.vrcfuryextensions",
+                    "displayName": "VRCFuryExtensions",
+                    "version": "0.1",
+                    "unity": "2022.3",
+                    "description": "Extended custom controls for VRCFury",
+                    "dependencies": {},
+                    "gitDependencies": {},
+                    "vpmDependencies": {
+                        "com.vrcfury.vrcfury": ">=1.933.0"
+                    },
+                    "author": {
+                        "name": "insomnyawolf",
+                        "email": "insomnyawolf@gmail.com",
+                        "url": "https://insomnyawolf.github.io"
+                    },
+                    "zipSHA256": "5c0e0be9021c13ac7689ddfd9c397845b0157e2fddb386d74e83e4c9fb82b018",
+                    "url": "https://github.com/insomnyawolf/VRCFuryExtensions/releases/download/0.1/VRCFuryExtensionsV0.1.zip",
+                    "legacyFolders": {},
+                    "legacyFiles": {}
+                }
+            }
+        }
+    }
+}
