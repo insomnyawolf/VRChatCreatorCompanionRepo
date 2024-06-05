@@ -4,7 +4,7 @@
     "authorUrl": "https://github.com/insomnyawolf",
     "description": "inso's repo",
     "email": "insomnyawolf@gmail.com",
-    "url": "https://insomnyawolf.github.io/VRChatCreatorCompanionRepo/docs/index.json",
+    "url": "https://insomnyawolf.github.io/VRChatCreatorCompanionRepo/index.json",
     "id": "insomnyawolf.listing",
     "packages": {
         "io.github.insomnyawolf.vrcfuryextensions": {
